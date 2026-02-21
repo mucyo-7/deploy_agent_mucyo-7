@@ -1,12 +1,12 @@
-# deploy_agent_mucyo-7
+# Name of the repo :deploy_agent_mucyo-7
 
-## What this script does
+## What this script (setup_project.sh)does
 An automated shell script that bootstraps a Student Attendance Tracker project. It creates the full directory structure, populates all required files, allows dynamic configuration of attendance thresholds, and handles interruptions gracefully.
 
 ## How to run
-```bash
+
 bash setup_project.sh
-```
+
 
 ## What happens when you run it
 1. You are prompted to enter a project name
@@ -23,3 +23,8 @@ While the script is running, press **Ctrl+C** to interrupt it. The script will:
 ## Requirements
 - Bash
 - Python3
+## Video Walkthrough
+[Click here to watch Part 1](https://www.loom.com/share/f4b04f73703a41e893c8c202a164f5c2)
+
+## The next part of the video
+[Click here to watch Part 2](https://www.loom.com/share/f8be0f003655460d88719b34f6f965c4)
